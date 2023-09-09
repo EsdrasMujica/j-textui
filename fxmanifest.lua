@@ -9,8 +9,7 @@ contributor {
 }
 
 client_scripts {
-    "client.lua",
-    "config.lua"
+    "client.lua"
 }
 
 ui_page {
